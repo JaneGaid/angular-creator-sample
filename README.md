@@ -12,6 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run the following commands to clone the repository and install packages:
 ```
 git clone https://github.com/JaneGaid/angular-creator-sample.git
+cd angular-creator-sample
 npm i
 ```
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
